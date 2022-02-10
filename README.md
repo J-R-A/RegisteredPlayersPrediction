@@ -6,7 +6,17 @@ The analysis is based on a very small data set and so its results cannot be extr
 
 ----------
 
+The data set can be found in:
+
+**RegisteredPlayers.xlsx**
+
+
 Code, figures and comments on the results and overall conclusions can be found in: 
 
-**RegisteredPlayersPrediction.ipynb**  
+**RegisteredPlayersPrediction.ipynb** 
+
+
+Auxiliary functions used in the analysis can be found in: 
+
+**aux_functs.py** 
 
